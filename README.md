@@ -4,12 +4,12 @@ Open 1.html in a web browser (Chrome, Firefox, etc.)
 
 No installation or extra tools are required — just a web browser.
 
-🧠 Technologies Used
+
 Technology	Purpose
 HTML	Structure
 CSS	Styling & layout
 JavaScript	UI interactivity
-📌 Why This Project Matters
+ Why This Project Matters
 
 This project shows that I can build basic interactive web pages using core web technologies.
 It demonstrates understanding of:
@@ -20,7 +20,7 @@ It demonstrates understanding of:
 
 This is a foundation for real-world web tasks like forms, landing pages, small applications, and UI components.
 
-📣 Feedback & Improvements
+ Feedback & Improvements
 
 I welcome constructive feedback!
 If you have suggestions to make this project more user-friendly, professional, or market-ready, please tell me.
